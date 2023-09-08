@@ -5,9 +5,9 @@
 1. **Check Server Logs**: Your web server logs will provide data on IPs that accessed the site, what files were touched, and at what times.
 2. **Analyzing .htaccess**: Often, attackers may leave clues in the **`.htaccess`** file, which they might use to reroute traffic.
     
-    [Basic Tweak Set #1 - .htaccess](https://www.notion.so/Basic-Tweak-Set-1-htaccess-823114a92fbd43dfa61e36dc0273864c?pvs=21)
+    [Basic Tweak Set #1 - .htaccess](https://github.com/harimau99/wordcamp-2023/blob/main/Chapter/configuration/basic.tweaks.htaccess.md)
     
-    [Comprehensive Tweak Set #2 - .htacces](https://www.notion.so/Comprehensive-Tweak-Set-2-htacces-ab26668dd33f462da88858eb7781eb3b?pvs=21)
+    [Comprehensive Tweak Set #2 - .htacces](https://github.com/harimau99/wordcamp-2023/blob/main/Chapter/configuration/comprehensive.tweaks.htaccess.md)
     
 3. **Check User Activity**: Monitor and log all admin-level activity on the website. Plugins can be used to monitor all activity, including login times, IP addresses, and changes made.
 4. **Look for Malware or Shell Scripts**: Attackers might upload these to maintain control over the site. Tools like Malware scanners can help you find these.
