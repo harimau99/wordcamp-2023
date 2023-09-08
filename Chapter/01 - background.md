@@ -4,9 +4,6 @@ Around 810 million websites use WordPress as of 2023, according to our best esti
 This represents around 43% ++ of all websites. And that figure is growing rapidly. 
 In fact, over 500 sites are built with WordPress every day (Without Doubt), compared to just 60-80 on competitor platforms like Shopify and Squarespace.
 
-
-
-
 ## [Resources](https://wordpress.org/documentation/article/hardening-wordpress/#resources)
 
 -   [How to Improve WordPress Security (Infographic)](http://yourescapefrom9to5.com/wordpress-security-infographic)
